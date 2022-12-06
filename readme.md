@@ -1,0 +1,1 @@
+Wrack-a-mole game based on the lesson from Wes Bos JavaScript 30 course.
